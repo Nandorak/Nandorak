@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## Machine Learning
+El Machine Learning es un subconjunto de la inteligencia artificial en la cual a través de algoritmos capacita a los ordenadores para identificar patrones de datos masivos permitiendo la elaboración de predicciones a través de algoritmos de aprendizaje supervisado, no supervisado y semi supervisado.
 
-You can use the [editor on GitHub](https://github.com/Nandorak/Nandorak/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nandorak/Nandorak/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Acceso al repositorio](https://webasignatura.ucu.edu.uy/mod/assign/view.php?id=210278&action=view)
